@@ -1,0 +1,7 @@
+Feature,Friendly_Name,Importance,Importance_Percent,Rank
+monthly_charge,Monthly Charge ($),0.27718606303593907,27.71860630359391,1
+usage_hours,Monthly Usage (Hours),0.24979106881350327,24.979106881350326,2
+tenure_months,Tenure (Months),0.24465814229785587,24.465814229785586,3
+support_tickets,Support Tickets,0.10332280296409677,10.332280296409676,4
+contract_months,Contract Duration (Months),0.08552233073241454,8.552233073241453,5
+autopay,Autopay (Automatic Billing),0.03951959215619044,3.951959215619044,6
